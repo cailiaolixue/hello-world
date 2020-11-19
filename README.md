@@ -1,3 +1,3 @@
 # hello-world
 Just another repository
-I like cailiaolixue.
+I like cailiaolixue and math.
